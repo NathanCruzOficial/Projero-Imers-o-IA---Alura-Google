@@ -2,7 +2,7 @@
 
 ## Assistente de Estudos Bíblicos
 
-Conheça Verbus! seu Assistente de Estudos Bíblicos!📖
+Conheça Verbum! seu Assistente de Estudos Bíblicos!📖
 
 Este projeto tem como objetivo auxiliar pessoas em sua jornada de fé, fornecendo acesso a versículos bíblicos que podem oferecer conforto, orientação e esperança em momentos de dificuldade. Através de um sistema de busca intuitivo e organizado por sentimentos, você poderá encontrar facilmente os ensinamentos das escrituras que mais se aplicam à sua situação.
 
